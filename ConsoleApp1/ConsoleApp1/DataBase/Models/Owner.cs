@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.DataBase.Models
 {
-    class Owner : User
+    public class Owner : User
     {
         public Owner(string name, string lastName, string fIN) 
             : base(name, lastName, fIN)

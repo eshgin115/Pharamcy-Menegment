@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.DataBase.Models
 {
-    internal class pharmacy
+    public class Pharmacy
     {
     }
 }
